@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+plotly
+langchain
+openai
+python-multipart
+python-dotenv
+pydantic
+aiofiles
+pydantic-settings

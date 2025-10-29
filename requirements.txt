@@ -11,3 +11,4 @@ python-dotenv==1.0.0
 pydub==0.25.1
 gtts==2.5.1
 langchain-core==0.1.0
+langchain-community==0.0.10
